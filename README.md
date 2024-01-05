@@ -22,3 +22,5 @@ DERSOM DU BRUKER DENNE BOTTEN KAN DU BLI OPPDAGET! DEN KAN IKKE UTFØRE CAPTCHA 
 Dersom du ønsker en mer avansert bot som ikke blir oppdaget og som kan kjøre 24/7 og tar automatisk pauser og mer Sponsor knappe oppe til høgre!
 
 Kommer snart mer info om hvordan kjøre botten. Dersom du sponsor får du også med support for setup.
+
+Til lageren av denne, legg meg til på discord jeg kjøper den med din guiding. Discord: the1funnybear
